@@ -53,9 +53,13 @@ h2 {
     font-size: 0.9rem;
 }
 
-.alert-error ul { margin-left: 1.2rem; }
+.alert-error ul { 
+    margin-left: 1.2rem; 
+}
 
-.form-group { margin-bottom: 1rem; }
+.form-group { 
+    margin-bottom: 1rem; 
+}
 
 label {
     display: block;
@@ -79,7 +83,10 @@ input:focus {
     box-shadow: 0 0 0 3px rgba(249, 115, 22, 0.2);
 }
 
-input[type="file"] { font-size: 0.85rem; color: #6B7280; }
+input[type="file"] { 
+    font-size: 0.85rem; 
+    color: #6B7280; 
+}
 
 input[type="file"]::file-selector-button {
     margin-right: 0.5rem;
@@ -104,15 +111,35 @@ input[type="file"]::file-selector-button {
     margin-top: 1rem;
 }
 
-.btn-primary { background-color: #2563EB; color: white; }
-.btn-primary:hover { background-color: #1D4ED8; }
+.btn-primary { 
+    background-color: #2563EB; 
+    color: white; 
+}
 
-.btn-secondary { background-color: #E5E7EB; color: #374151; text-decoration: none; margin-top: 0.5rem; }
-.btn-secondary:hover { background-color: #D1D5DB; }
+.btn-primary:hover { 
+    background-color: #1D4ED8; 
+}
 
-.table-responsive { overflow-x: auto; }
+.btn-secondary { 
+    background-color: #E5E7EB; 
+    color: #374151; 
+    text-decoration: none; 
+    margin-top: 0.5rem; 
+}
 
-table { width: 100%; border-collapse: collapse; font-size: 0.9rem; }
+.btn-secondary:hover { 
+    background-color: #D1D5DB; 
+}
+
+.table-responsive { 
+    overflow-x: auto; 
+}
+
+table { 
+    width: 100%; 
+    border-collapse: collapse; 
+    font-size: 0.9rem; 
+}
 
 th {
     background-color: #F9FAFB;
@@ -125,7 +152,12 @@ th {
     border-bottom: 2px solid #E5E7EB;
 }
 
-td { padding: 0.75rem; border-bottom: 1px solid #E5E7EB; vertical-align: middle; color: #374151; }
+td { 
+    padding: 0.75rem; 
+    border-bottom: 1px solid #E5E7EB; 
+    vertical-align: middle; 
+    color: #374151; 
+}
 
 .contact-img {
     width: 36px;
@@ -143,10 +175,25 @@ td { padding: 0.75rem; border-bottom: 1px solid #E5E7EB; vertical-align: middle;
     font-size: 0.8rem;
 }
 
-.link-edit { color: #2563EB; padding: 2px 6px; background: #EFF6FF; border-radius: 4px;}
-.link-delete { color: #DC2626; padding: 2px 6px; background: #FEF2F2; border-radius: 4px;}
+.link-edit { 
+    color: #2563EB; 
+    padding: 2px 6px; 
+    background: #EFF6FF; 
+    border-radius: 4px;
+}
 
-.empty-message { text-align: center; color: #6B7280; padding: 2rem; }
+.link-delete { 
+    color: #DC2626; 
+    padding: 2px 6px; 
+    background: #FEF2F2; 
+    border-radius: 4px;
+}
+
+.empty-message { 
+    text-align: center; 
+    color: #6B7280; 
+    padding: 2rem; 
+}
 
 @media (min-width: 900px) {
     .main-wrapper {
