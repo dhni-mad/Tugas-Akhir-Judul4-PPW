@@ -3,7 +3,7 @@
 Berikut Penjelasan Tugas Akhir yaitu Form Kontak yang Saya Buat
 
 1. Gambar Tampilan Awal Form Kontak
-<img width="1920" height="1080" alt="Screenshot (399)" src="https://github.com/user-attachments/assets/0b5dbf7f-cc10-450b-84dd-b6e1300b333c" />
+<img width="1920" height="929" alt="Screenshot (402)" src="https://github.com/user-attachments/assets/f835f5ac-3db5-4437-9a28-0a683ae0faf7" />
 Penjelasan:
 Jadi Pada Tampilan awal ini terlihat bahwa terdapat 2 form yaitu untuk menambah data kontak dan form untuk menampilkan data kontak yang berhasil ditambahkan
 
